@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b3308339976121105101bdc0f053afb3" label="challenge_table" max_length="40" name="x_1014494_sn_chall_challenge_table" type="collection">
+        <element label="Num int" max_length="40" name="num_int" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Dt" max_length="40" name="dt" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Str" max_length="40" name="str" type="string"/>
+    </element>
+</database>
